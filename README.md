@@ -1,4 +1,7 @@
 ## Hi there I.m DoDo👋
+![image](https://github.com/user-attachments/assets/505f0951-6ea5-4aa6-9928-fb3efb022533)
+
+
 ### Stack
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
