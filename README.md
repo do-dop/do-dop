@@ -12,7 +12,4 @@
 ### IDE
 ![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pdy0207)](https://solved.ac/pdy0207)
-
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=do-dop)](https://github.com/anuraghazra/github-readme-stats)
