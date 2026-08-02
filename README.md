@@ -7,7 +7,7 @@
 ## Projects
 
 - **[AI Cloud FinOps](https://github.com/cloud-club/09th-ai-cloud-finops)** · Terraform·CloudWatch·LLM 기반 클라우드 비용 낭비 분석 파이프라인 `(2026.03 – 2026.06)`
-- **[PATATA](https://github.com/Central-MakeUs/PATATA_Server)** · 위치 기반 사진 스팟 추천 서비스 - 1인 서버 개발 `(2025.01 – 2026.01)`
+- **[PATATA](https://github.com/Central-MakeUs/PATATA_Server)** · 위치 기반 사진 스팟 추천 서비스 - 1인 서버 개발 `(2025.01 – 2025.05)`
 - **Kidogkidog** · 비디오 RAG 기반 반려동물 행동 자연어 검색 서비스 `(2026.03 – 2026.06)`
 - **[홍익대학교 UMC 모집 웹사이트](https://github.com/HUR-Hongik-UMC-Recruit/Backend)** · 지원서 작성 및 모집 관리 서비스 - 백엔드 `(2024.09 – 2025.03)`
 - **[따끈](https://github.com/ttakkeun/Backend_Spring)** · 반려동물 스킨케어 서비스 - 백엔드 `(2024.03 – 2024.08)`
